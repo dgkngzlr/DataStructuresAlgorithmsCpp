@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(DSA)
+
+add_subdirectory(./InsertionSort)
+add_subdirectory(./BubbleSort)
+add_subdirectory(./SumOfNRec)
+add_subdirectory(./FactorialRec)
+add_subdirectory(./FiboRec)
+add_subdirectory(./TowerOfHanoi)
+add_subdirectory(./NQueen)
+add_subdirectory(./MergeLists)
+add_subdirectory(./SummedK)
+add_subdirectory(./PermStr)
+add_subdirectory(./BinarySearch)
+add_subdirectory(./DuplicateElement)
+add_subdirectory(./CStrSplit)
